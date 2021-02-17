@@ -16,7 +16,7 @@ public class TestData {
 	}
 	
 	@DataProvider(name="InputData1")
-	public Object[][] getDataUpdate()
+	public Object[][] getDataUpdate4234()
 	{
 		//2sets of data, "hello", "!@@#$$"
 		Object[][] obj = new Object[][]
